@@ -78,3 +78,21 @@ nav li a{
           flex-direction: column;
           }
 }
+/* main style */
+Main{
+      max-width: 1140px;
+      margin: 0 auto;
+}
+.teams-contaner{
+     display: flex;
+     align-items: center;
+}
+.teams-images-contaner{
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+     gap: 1.5rem;
+}
+.team-contian{
+     padding-left: 70px;
+     padding-right: 70px;
+}

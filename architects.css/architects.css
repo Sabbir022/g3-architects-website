@@ -92,6 +92,14 @@ Main{
      padding-left: 20px;
      padding-right: 20px;
 }
+/* feature section style */
+.features{
+     margin-top: 130px;
+     display: flex;
+     gap: 100px;
+
+}
+
 /* facts section */
 .facts-card-container{
       display: flex;
